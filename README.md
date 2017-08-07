@@ -3,15 +3,15 @@
 This project was made for my Computer Graphics course in 2014. It was a team project to procedurally generate a city with building and roads however only my part was finished (generating the buildings). 
 
 ## Sample Images
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/1.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/2.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/3.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/4.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/5.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/6.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/7.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/8.png]]
-[[https://github.com/hellblade/BuildingGenerator/blob/master/images/9.png]]
+![sample](images/1.png)
+![sample](images/2.png)
+![sample](images/3.png)
+![sample](images/4.png)
+![sample](images/5.png)
+![sample](images/6.png)
+![sample](images/7.png)
+![sample](images/8.png)
+![sample](images/9.png)
 
 
 ## Compiling
