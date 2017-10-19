@@ -1,3 +1,12 @@
+# Redesign Branch
+This branch will be created to redesign the project so it can later be improved.
+
+Todo:
+* Change to use C for the actual building generation to make it more portable
+* Better tooling setup for compiling the source
+
+
+
 # Building Generator
 
 This project was made for my Computer Graphics course in 2014. It was a team project to procedurally generate a city with building and roads however only my part was finished (generating the buildings). 
